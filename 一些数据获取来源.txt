@@ -1,0 +1,28 @@
+政府或机构提供的公开数据
+	世界银行
+	https://data.worldbank.org.cn/
+	国家数据
+	http://data.stats.gov.cn/
+	UNdata
+	http://data.un.org/Default.aspx
+	NASDAQ股票市场
+	https://www.nasdaq.com/g00/zh?i10c.encReferrer=&i10c.ua=1&i10c.dv=14
+企业产生的用户数据
+	百度指数
+	https://index.baidu.com/#/
+	腾讯指数
+	https://tbi.tencent.com/
+	阿里指数
+	https://shu.taobao.com/
+数据平台购买
+	数据堂
+	http://www.datatang.com/
+	贵阳大数据
+	http://trade.gbdex.com/trade.web/
+数据咨询服务公司
+	mckinsey|麦肯锡
+	https://www.mckinsey.com.cn/
+	艾瑞咨询
+	http://www.iresearch.com.cn/
+	埃森哲
+	https://www.accenture.com/cn-zh/new-applied-now
